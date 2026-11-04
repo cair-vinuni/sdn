@@ -1,0 +1,24 @@
+# checkpoints, environments, outputs
+pretrained/
+.venv/
+results*/
+eval_logs/
+
+/dataset/
+*.mp4
+!assets/*.mp4
+*.gif
+*.log
+
+# local / unpublished
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
