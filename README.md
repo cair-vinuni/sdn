@@ -13,10 +13,6 @@
 
 </div>
 
-## Latest updates
-
-- 🚀 **`2026.11`** — Code release: 🤖 π0\* on SIMPLER.
-- 🌐 **`2026.11.02`** — [Project page](https://sdn-vla.github.io) online.
 
 Code and run scripts for **Selected Diffusion Noise (SDN)**, a training-free, test-time
 action-selection method for diffusion / flow-matching VLA policies. Each initial noise of
